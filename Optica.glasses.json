@@ -1,0 +1,200 @@
+[{
+  "_id": {
+    "$oid": "680a4b42faa8d99d4c60d4ce"
+  },
+  "brand": "Ray-Ban",
+  "left_lens": {
+    "color": "blue",
+    "graduation": 0.5
+  },
+  "right_lens": {
+    "color": "blue",
+    "graduation": 0.5
+  },
+  "frame": {
+    "color": "black",
+    "type": "plastic"
+  },
+  "price": 150,
+  "providedBy": "680f52b5c8f24e695aadd810"
+},
+{
+  "_id": {
+    "$oid": "680f4b79c8f24e695aadd7fb"
+  },
+  "brand": "Oakley",
+  "left_lens": {
+    "color": "green",
+    "graduation": 1
+  },
+  "right_lens": {
+    "color": "green",
+    "graduation": 1
+  },
+  "frame": {
+    "color": "matte black",
+    "type": "metal"
+  },
+  "price": 180,
+  "providedBy": "680f52b5c8f24e695aadd810"
+},
+{
+  "_id": {
+    "$oid": "680f4b79c8f24e695aadd7fc"
+  },
+  "brand": "Prada",
+  "left_lens": {
+    "color": "brown",
+    "graduation": 1.5
+  },
+  "right_lens": {
+    "color": "brown",
+    "graduation": 1.75
+  },
+  "frame": {
+    "color": "tortoise",
+    "type": "plastic"
+  },
+  "price": 350,
+  "providedBy": "680f52b5c8f24e695aadd810"
+},
+{
+  "_id": {
+    "$oid": "680f4b79c8f24e695aadd7fd"
+  },
+  "brand": "Warby Parker",
+  "left_lens": {
+    "color": "clear",
+    "graduation": 0
+  },
+  "right_lens": {
+    "color": "clear",
+    "graduation": 0
+  },
+  "frame": {
+    "color": "navy blue",
+    "type": "floating"
+  },
+  "price": 95,
+  "providedBy": "680f52b5c8f24e695aadd811"
+},
+{
+  "_id": {
+    "$oid": "680f4b79c8f24e695aadd7fe"
+  },
+  "brand": "Gucci",
+  "left_lens": {
+    "color": "gray",
+    "graduation": 2
+  },
+  "right_lens": {
+    "color": "gray",
+    "graduation": 2
+  },
+  "frame": {
+    "color": "gold",
+    "type": "metal"
+  },
+  "price": 420,
+  "providedBy": "680f52b5c8f24e695aadd812"
+},
+{
+  "_id": {
+    "$oid": "680f4b79c8f24e695aadd7ff"
+  },
+  "brand": "Persol",
+  "left_lens": {
+    "color": "blue",
+    "graduation": 0.75
+  },
+  "right_lens": {
+    "color": "blue",
+    "graduation": 0.75
+  },
+  "frame": {
+    "color": "transparent",
+    "type": "plastic"
+  },
+  "price": 210,
+  "providedBy": "680f52b5c8f24e695aadd812"
+},
+{
+  "_id": {
+    "$oid": "680f4b79c8f24e695aadd800"
+  },
+  "brand": "Tom Ford",
+  "left_lens": {
+    "color": "mirrored",
+    "graduation": 1.25
+  },
+  "right_lens": {
+    "color": "mirrored",
+    "graduation": 1.25
+  },
+  "frame": {
+    "color": "black",
+    "type": "metal"
+  },
+  "price": 380,
+  "providedBy": "680f52b5c8f24e695aadd814"
+},
+{
+  "_id": {
+    "$oid": "680f4b79c8f24e695aadd801"
+  },
+  "brand": "Maui Jim",
+  "left_lens": {
+    "color": "polarized",
+    "graduation": 0
+  },
+  "right_lens": {
+    "color": "polarized",
+    "graduation": 0
+  },
+  "frame": {
+    "color": "silver",
+    "type": "floating"
+  },
+  "price": 275,
+  "providedBy": "680f52b5c8f24e695aadd814"
+},
+{
+  "_id": {
+    "$oid": "680f4b79c8f24e695aadd802"
+  },
+  "brand": "Dior",
+  "left_lens": {
+    "color": "pink",
+    "graduation": 1
+  },
+  "right_lens": {
+    "color": "pink",
+    "graduation": 1
+  },
+  "frame": {
+    "color": "white",
+    "type": "plastic"
+  },
+  "price": 290,
+  "providedBy": "680f52b5c8f24e695aadd814"
+},
+{
+  "_id": {
+    "$oid": "680f4b79c8f24e695aadd803"
+  },
+  "brand": "Versace",
+  "left_lens": {
+    "color": "yellow",
+    "graduation": 0.5
+  },
+  "right_lens": {
+    "color": "yellow",
+    "graduation": 0.5
+  },
+  "frame": {
+    "color": "red",
+    "type": "metal"
+  },
+  "price": 320,
+  "providedBy": "680f52b5c8f24e695aadd814"
+}]

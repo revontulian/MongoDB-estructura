@@ -1,0 +1,90 @@
+[{
+  "_id": {
+    "$oid": "680f52b5c8f24e695aadd810"
+  },
+  "name": "VisionPlus Suppliers",
+  "phone": "555-100-2000",
+  "fax": "555-100-2001",
+  "NIF": "B87654321",
+  "address": {
+    "street": "Optical Avenue",
+    "number": "45",
+    "floor": "3",
+    "door": "B",
+    "city": "Lensville",
+    "zip": "54321",
+    "country": "Opticaland"
+  }
+},
+{
+  "_id": {
+    "$oid": "680f52b5c8f24e695aadd811"
+  },
+  "name": "EuroLens Distributors",
+  "phone": "555-200-3000",
+  "fax": "555-200-3001",
+  "NIF": "C98765432",
+  "address": {
+    "street": "Frame Street",
+    "number": "12",
+    "floor": "2",
+    "door": "C",
+    "city": "Glasses City",
+    "zip": "67890",
+    "country": "Vision Republic"
+  }
+},
+{
+  "_id": {
+    "$oid": "680f52b5c8f24e695aadd812"
+  },
+  "name": "ClearView Optics",
+  "phone": "555-300-4000",
+  "fax": "555-300-4001",
+  "NIF": "D56789123",
+  "address": {
+    "street": "Binocular Road",
+    "number": "78",
+    "floor": "1",
+    "door": "D",
+    "city": "Sightstown",
+    "zip": "34567",
+    "country": "Optic Nation"
+  }
+},
+{
+  "_id": {
+    "$oid": "680f52b5c8f24e695aadd813"
+  },
+  "name": "Premium Eyewear Co.",
+  "phone": "555-400-5000",
+  "fax": "555-400-5001",
+  "NIF": "E34567891",
+  "address": {
+    "street": "Retina Boulevard",
+    "number": "33",
+    "floor": "5",
+    "door": "E",
+    "city": "Corneal Heights",
+    "zip": "45678",
+    "country": "Irisland"
+  }
+},
+{
+  "_id": {
+    "$oid": "680f52b5c8f24e695aadd814"
+  },
+  "name": "Global Optical Network",
+  "phone": "555-500-6000",
+  "fax": "555-500-6001",
+  "NIF": "F23456789",
+  "address": {
+    "street": "Pupil Lane",
+    "number": "90",
+    "floor": "4",
+    "door": "F",
+    "city": "Retinaville",
+    "zip": "56789",
+    "country": "Macula State"
+  }
+}]

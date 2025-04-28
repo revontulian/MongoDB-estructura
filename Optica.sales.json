@@ -1,0 +1,12 @@
+[{
+  "_id": {
+    "$oid": "680a584628e5d0d20965f07b"
+  },
+  "customer_id": "680a4b27faa8d99d4c60d4cc",
+  "date": {
+    "$date": "2025-03-24T23:00:00.000Z"
+  },
+  "glasses_id": "680a4b42faa8d99d4c60d4ce",
+  "quantity": 1,
+  "seller_id": "680f5549c8f24e695aadd828"
+}]
